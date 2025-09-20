@@ -106,15 +106,21 @@ Offline mode for low-connectivity areas.
 6.Text-to-Speech (TTS) and Speech-to-Text (STT) engines.
 
 7.Analytics dashboards and machine learning for continuous improvement.
+             
+             📈📈FLOW CHART📈📈
+<img width="1536" height="1024" alt="hackthon img" src="https://github.com/user-attachments/assets/526481ab-7d60-43f3-9c1a-c6e755ced803" />
+
+<img width="1536" height="1024" alt="hackthon 2" src="https://github.com/user-attachments/assets/44c076ce-9bb1-4256-8bec-8d8e7cf38cf1" />
+          
 
 ## Feasibility and Viability
-feasibility
+🩷feasibility🩷
 1.technical-AI models for crop advisory, pest detection, and yield prediction are feasible. IoT sensors and drones are available. Mobile apps can support multilingual text and voice interfaces.
 2.operational-Requires farmer training and access to smartphones or local access points. Local language support ensures usability.
 3.financial-Initial investment includes app development, AI training, drones, IoT devices, and cloud hosting.
 4.market-Large base of small and marginal farmers ensures demand.
 5.enviromental-plaform can reduce overuse of chemicals by providing precise recommendations.
-viability
+💚viability💚
 1.technical-Models are scalable and maintainable. Cloud infrastructure can handle data growth over time.
 2.operational-High adoption likely with ongoing support, training, and incentives for farmers
 3.financial-Long-term demand sustainable due to ongoing need for crop advisory, pest alerts, and market updates.
